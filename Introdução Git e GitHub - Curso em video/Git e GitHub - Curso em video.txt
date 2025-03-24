@@ -6,7 +6,7 @@ Git: software de controle de versão
 
 Github: Plataforma de rede social pra programadores para postar seus repositórios
 
-Git: Software de controle de versão(VCS) ou versionamento, chamamos o git dessa maneira porque ele é como se fosse uma máquina do tempo que guarda as versões do seu projeto. Imagine que está criando um site pra um cliente e aí vc termina de fazer o html, aí vc salva em uma pasta como site-cliente, ao consultar seu cliente ele diz que tá ficando top, aí vc guarda essa pasta numa pasta zip, pra se acontecer alguma bosta no seu projeto no futuro, vc voltar nessa pasta e fazer de novo. Mas a cada vez que você avança no projeto é necessário salvá-lo muitas vezes, nesse pique vc vai acumulando muitas pastas zip e no futuro isso vai ficar uma bagunça, pois tem muitas VERSÕES do seu projeto misturadas. por isso existe o Git que é Software de controle de versão(VCS) ou versionamento.
+Git: Software de controle de versão(VCS) ou versionamento, chamamos o git dessa maneira porque ele é como se fosse uma máquina do tempo que guarda as versões do seu projeto. Imagine que está criando um site pra um cliente e aí vc termina de fazer o html, aí vc salva em uma pasta como site-cliente, ao consultar seu cliente ele diz que tá ficando top, aí vc guarda essa pasta numa pasta zip, pra se acontecer alguma bosta no seu projeto no futuro, vc voltar nessa pasta e fazer de novo. Mas a cada vez que você avança no projeto é necessário salva-lo muitas vezes, nesse pique vc vai acumulando muitas pastas zip e no futuro isso vai ficar uma bagunça, pois tem muitas VERSÕES do seu projeto misturadas. por isso existe o Git que é Software de controle de versão(VCS) ou versionamento.
 
 Git é um VCS distribuído que funciona da seguinte forma: Repositório remoto(GitHub) < push < repositório local(GIT) < commit < programador
 
@@ -23,4 +23,4 @@ Vantagens do VCS:
 GitHub - É um site onde vc guarda seus repositórios e compartilha com outros , como se fosse uma rede social de programadores, lá vc guarda projetos.
 
 - Forks - Você se tornar colaborador de um projeto e ajudar nele
-- Um **fork** no GitHub é uma cópia de um repositório existente que você cria em sua própria conta. Isso permite que você faça alterações no seu repositório bifurcado sem afetar o repositório original
+- Um **fork** no GitHub é uma cópia de um repositório existente que você cria em sua própria conta. Isso permite que você faça alterações no seu repositório bifurcado sem afetar o repositório original.
